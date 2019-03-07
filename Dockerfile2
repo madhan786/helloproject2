@@ -1,0 +1,6 @@
+# Pull base image
+From httpd:latest
+
+# Maintainer
+MAINTAINER "hemu786@gmail.com"
+COPY ./webapp.war /opt/tomcat/webapps
