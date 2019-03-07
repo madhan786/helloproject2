@@ -1,5 +1,5 @@
 # Pull base image
-From httpd:latest
+From httpd:2.4
 
 # Maintainer
 MAINTAINER "hemu786@gmail.com"
